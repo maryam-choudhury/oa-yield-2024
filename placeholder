@@ -1,0 +1,3 @@
+forge init --force --no-git --vscode;
+forge build;
+forge test;
